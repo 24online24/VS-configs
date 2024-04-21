@@ -1,23 +1,23 @@
 // Place your key bindings in this file to override the defaults
 [
   {
-    "key": "ctrl+k ctrl+left",
+    "key": "ctrl+q ctrl+left",
     "command": "workbench.action.moveEditorToLeftGroup"
   },
   {
-    "key": "ctrl+k ctrl+up",
+    "key": "ctrl+q ctrl+up",
     "command": "workbench.action.moveEditorToAboveGroup"
   },
   {
-    "key": "ctrl+k ctrl+down",
+    "key": "ctrl+q ctrl+down",
     "command": "workbench.action.moveEditorToBelowGroup"
   },
   {
-    "key": "ctrl+k ctrl+right",
+    "key": "ctrl+q ctrl+right",
     "command": "workbench.action.moveEditorToRightGroup"
   },
   {
-    "key": "ctrl+k right",
+    "key": "ctrl+q right",
     "command": "workbench.action.focusRightGroup"
   },
   {
@@ -25,7 +25,7 @@
     "command": "-workbench.action.focusRightGroup"
   },
   {
-    "key": "ctrl+k left",
+    "key": "ctrl+q left",
     "command": "workbench.action.focusLeftGroup"
   },
   {
@@ -33,7 +33,7 @@
     "command": "-workbench.action.focusLeftGroup"
   },
   {
-    "key": "ctrl+k down",
+    "key": "ctrl+q down",
     "command": "workbench.action.focusBelowGroup"
   },
   {
@@ -41,7 +41,7 @@
     "command": "-workbench.action.focusBelowGroup"
   },
   {
-    "key": "ctrl+k up",
+    "key": "ctrl+q up",
     "command": "workbench.action.focusAboveGroup"
   },
   {
